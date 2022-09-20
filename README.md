@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @narges2569
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning web designing
+- 🌱 I’m currently learning front-End developering
 - 💞️ I’m looking to collaborate on a great project to learning more
 - 📫 How to reach me nargesmohamadzadeh00@gmail.com
 
